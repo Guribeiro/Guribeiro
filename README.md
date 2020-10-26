@@ -2,10 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Gustavo%20Henrique%20Ribeiro-%232980b9)](https://www.linkedin.com/in/gustavo-henrique-ribeiro-b58385184/)
 
-🔭 i'm currently working on to become a really good frontend developer. 
-🌱 Studying ReactJS and putting into practice every new knowledge obtained. 
-
-⚡ I'll get there 
+Atualmente focado nos meus estudos e projeto pessoais.
 
  <!--
 **Guribeiro/Guribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
