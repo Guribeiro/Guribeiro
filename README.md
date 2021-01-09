@@ -4,7 +4,7 @@
 
 🔭 I'm currently studying and improving my knowledge in ReactJs, NodeJs and React-native by using typescript. <br/>
 🚀 Working on to become a fullstack developer. <br/>
-🌱 Learning about design patterns software architecture. <br/>
+🌱 Learning about design patterns and software architecture. <br/>
 
 
  <!--
