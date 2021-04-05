@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### My name is Gustavo Henrique ✨
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Gustavo%20Henrique%20Ribeiro-%232980b9)](https://www.linkedin.com/in/gustavo-henrique-ribeiro-b58385184/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Gustavo%20Henrique%20Ribeiro-%232980b9)](www.linkedin.com/in/gustavohribeiro)
 
 🔭 I'm currently studying and practicing to improve my skill in ReactJs, NodeJs and React-native<br/>
 🚀 learning something new every day<br/>
