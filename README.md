@@ -5,7 +5,7 @@
 
 🔭 I'm currently studying and practicing to improve my skill in ReactJs, NodeJs and React-native<br/>
 🚀 learning something new every day<br/>
-🌱 Also learning about design patterns and software architecture. <br/>
+🌱 I'm also learning about design patterns and software architecture. <br/>
 
   <img src='https://github-readme-stats.vercel.app/api?username=guribeiro&show_icons=true&theme=omni'>
 
