@@ -2,7 +2,7 @@
 
 ### I'm Gustavo Henrique ✨
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Gustavo%20Henrique%20Ribeiro-%232980b9)](https://www.linkedin.com/in/gustavohribeiro)
-![Rocketseat Badge](https://img.shields.io/badge/Rocketseat-Gustavo%20Henrique-%236159c1)
+[![Rocketseat Badge](https://img.shields.io/badge/Rocketseat-Gustavo%20Henrique-%236159c1)](https://app.rocketseat.com.br/me/gustavo-henrique-ribeiro-dias-1566629554)
 
 learning something new every day 🚀 <br/>
 
