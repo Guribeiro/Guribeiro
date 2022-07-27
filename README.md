@@ -2,6 +2,7 @@
 
 ### I'm Gustavo Henrique ✨
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Gustavo%20Henrique%20Ribeiro-%232980b9)](https://www.linkedin.com/in/gustavohribeiro)
+![Rocketseat Badge](https://img.shields.io/badge/Rocketseat-Gustavo%20Henrique-%236159c1)
 
 learning something new every day 🚀 <br/>
 
