@@ -3,7 +3,6 @@
 ### How to know more about me✨
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Gustavo%20Henrique%20Ribeiro-%232980b9)](https://www.linkedin.com/in/gustavohribeiro)
 [![Figma Badge](https://img.shields.io/badge/Figma-@Guribeiro-%2387403A)](https://www.figma.com/@guribeiro)
-[![Rocketseat Badge](https://img.shields.io/badge/Rocketseat-Gustavo%20Henrique%20Ribeiro%20Dias-%236159c1)](https://app.rocketseat.com.br/me/gustavo-henrique-ribeiro-dias-1566629554)
 [![Guribeiro.dev Badge](https://img.shields.io/badge/Personal%20Website-Guribeiro.dev-%23FF8100)](https://guribeiro.vercel.app/)
 
 
