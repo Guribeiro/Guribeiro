@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am a Fullstack Developer, studying and working on creating websites and applications since 2019.
+
+I have a great interest in continuing to develop myself professionally in challenging projects.
+
 ### How to know more about me✨
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Gustavo%20Henrique%20Ribeiro-%232980b9)](https://www.linkedin.com/in/gustavohribeiro)
 [![Figma Badge](https://img.shields.io/badge/Figma-@Guribeiro-%2387403A)](https://www.figma.com/@guribeiro)
